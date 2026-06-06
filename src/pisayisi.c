@@ -1,3 +1,6 @@
+//Pİ saysını kulllanarak 6 basamaklı şifre oluşturan kod.
+//Hiçbir sorumluluk üstlenmiyorum.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
