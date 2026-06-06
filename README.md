@@ -38,7 +38,7 @@ make
 | kbhit.c | Non-blocking klavye okuma |
 | kbhit.h | Kütüphane arayüzü |
 | Makefile | Derleme |
-| kbhitsizpisayisi | kütüphane oluşturulmadan önceki projenin ilk hali |
+| kbhitsizpisayisi.c | kütüphane oluşturulmadan önceki projenin ilk hali |
 
 ## Notlar
 
